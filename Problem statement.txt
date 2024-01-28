@@ -1,0 +1,1 @@
+Problem involves addressing the challenge of accurately identifying and interpreting human emotions based on facial features. The primary objective is to develop a robust and efficient system that can analyze facial images and categorize them into distinct emotional states, such as happiness, sadness, anger, surprise, and more.
